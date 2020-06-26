@@ -7,3 +7,5 @@ Use postman for test
 ![alt text](https://iili.io/JtF0nR.jpg)
 3. for file use-get.php use postman for test
 ![alt text](https://iili.io/Jtf5hJ.jpg)
+4. for file use-post.php use postman for test
+![alt text](https://iili.io/JtfaBR.jpg)
