@@ -2,8 +2,8 @@
 // menghitung luas segitiga
 $arr = json_decode(file_get_contents("php://input"));
 $jsonobj = '{"Zanur":35,"Niken":37,"Dinda":43}';
-
 $objarr = json_decode($jsonobj, true);
+
 if (empty($arr)){ 
 	exit("Data empty.");
 } else {
